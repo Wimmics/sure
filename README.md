@@ -8,7 +8,7 @@ The SURE-KG RDF dataset provides a knowledge graph built from a real dataset to 
 
 ## Documentation
 
-- [RDF data modeling](doc/rdf-modeling.md)
+- [RDF data modeling](doc/README.md)
 - [Generation pipeline](src/pipeline.md)
 
 ## SURE Ontology
@@ -21,7 +21,7 @@ The prefix *sure:* is used to refer to the ontology.
 The dataset is downloadable as a set of RDF dumps (in Turtle syntax) from Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7885757.svg)](https://doi.org/10.5281/zenodo.7885757)
 
 It can also be queried through our Virtuoso OS SPARQL endpoint http://erebe-vm2.i3s.unice.fr:5000/sparql.
-Further details about how named entities are represented in RDF are given in the [RDF Data Modeling](doc/rdf-modeling.md) section.
+Further details about how named entities are represented in RDF are given in the [RDF Data Modeling](doc/README.md) section.
 
 
 ## License
