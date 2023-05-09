@@ -10,7 +10,7 @@ This folder provides various tools, scripts and mappings files involved in carry
 Directory [TextInformationExtraction](TextInformationExtraction) provides the tools required to **extract (spatial) information from the ads** using our NER model.
 
 The outputs are saved as *pickle* files.
-To download the NER models from Zenodo :   
+To download the NER models from Zenodo : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7915505.svg)](https://doi.org/10.5281/zenodo.7915505)
 
 ## Spatial Approximation
 
