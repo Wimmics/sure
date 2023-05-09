@@ -54,7 +54,7 @@ Each annotation consists of the following information:
 
 ## Vague and Uncertain Spatial description
 
-The spatial named entities extracted from an the description of an ad give information about places. However, they are often vague and uncertain so we represent their boundaries thanks to the fuzzy set theory (alpha-cut). 
+The spatial named entities extracted from the description of an ad give information about places. However, they are often vague and uncertain so we represent their boundaries thanks to the fuzzy set theory (alpha-cut). 
 
 A place is compound of : 
 - type of place : Absolute or Relative (`rdf:type`)
