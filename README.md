@@ -13,7 +13,7 @@ The SURE-KG RDF dataset provides a knowledge graph built from a real dataset to 
 
 ## SURE Ontology
 
-The SURE (Spatial Uncertainty and Real Estate) ontology namespace is `http://ns.inria.fr/sure/`. 
+The SURE (Spatial Uncertainty and Real Estate) ontology namespace is [http://ns.inria.fr/sure/](http://ns.inria.fr/sure/). 
 The prefix *sure:* is used to refer to the ontology.
 
 ## Downloading and SPARQL Querying
