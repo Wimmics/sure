@@ -78,8 +78,8 @@ for i in range(nb_ads) :
 
 if df_finalKG.shape[0] > 0 :
     df_finalKG = df_finalKG.set_index('idAds')
-    df_finalKG.to_csv(os.path.join("data_final_extract.csv"),sep=";")
+    df_finalKG.to_csv(os.path.join("./results/data_final_extract.csv"),sep=";")
 
 if df_finalAnnot.shape[0] > 0 :
     df_finalAnnot = df_finalAnnot.set_index('idAds')
-    df_finalAnnot.to_csv(os.path.join("data_final_annot.csv"),sep=";")
+    df_finalAnnot.to_csv(os.path.join("./results/data_final_annot.csv"),sep=";")

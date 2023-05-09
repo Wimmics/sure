@@ -9,7 +9,7 @@ The SURE-KG RDF dataset provides a knowledge graph built from a real dataset to 
 ## Documentation
 
 - [RDF data modeling](doc/README.md)
-- [Generation pipeline](src/pipeline.md)
+- [Generation pipeline](src/README.md)
 
 ## SURE Ontology
 

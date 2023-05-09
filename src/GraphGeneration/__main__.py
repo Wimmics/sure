@@ -17,7 +17,7 @@ print("IMPORT DATA")
 df_ads_final = pd.read_csv("../../dataset/initial_dataset.csv",sep=';')
 df_finalKG = pd.read_pickle("../SpatialApproximation/results/dfFinaleKG.pkl")
 df_annot = pd.read_csv("../TextInformationExtraction/results/data_final_annot.csv",sep=";")
-attributes_rdf = pd.read_pickle("./data/attributes_rdf.pkl")
+attributes_rdf = pd.read_pickle("./SpatialApproximation/results/attributes_rdf.pkl")
 df_feature = pd.read_pickle("../SpatialApproximation/results/dfFeature.pkl")
 
 
