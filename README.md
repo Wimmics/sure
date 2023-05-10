@@ -1,10 +1,13 @@
 # SURE : Spatial Uncertainty and Real Estate
 
-This repository contains the piepline and documentation to build and query the SURE-KG RDF datast. 
+This repository contains the pipeline and documentation to build and query the SURE-KG RDF datast. 
+
 
 ## SURE-KG dataset
 
 The SURE-KG RDF dataset provides a knowledge graph built from a real dataset to represent Real Estate and Uncertain Spatial Data from Advertisements. It relies on natural language processing and machine learning methods for information extraction, and semantic Web frameworks for representation and integration. It describes more than 100K real estate ads and 6K place-names extracted from French Real Estate advertisements from various online advertiser and located in the French Riviera. It can be exploited by real estate search engines, real estate professionals, or geographers willing to analyze local place-names
+
+![alt pipline](doc/pipeline.PNG)
 
 ## Documentation
 
